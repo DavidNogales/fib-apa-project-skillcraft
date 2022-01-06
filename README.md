@@ -43,4 +43,4 @@ In windows first execute the `dataset_downloader.py` script:
 
 Which will download the dataset in the current directory if it isn't present already. Or you can download the dataset manually from this [dataset repository](http://archive.ics.uci.edu/ml/datasets/skillcraft1+master+table+dataset).
 
-Alternatively the Jupyter Notebook will check the presence of the dataset and will download it in its enviroment if necessary.
+Alternatively the Jupyter Notebook will check the presence of the dataset and will download it in its enviroment if necessary. Lastly execute the `.ipynb` file in your enviroment of choice by running all cells.
