@@ -6,7 +6,7 @@ This project was developed for the 'Machine Learning' (APA) course at FIB in 202
 
 David Nogales Pérez
 
-Alex Blasco
+Alex Ochoa Blasco
 
 ## **Main script**
 
